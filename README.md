@@ -2,6 +2,7 @@
 
 Hola, soy Mauricio, tengo 22 años, en etapas finales de recibirme de Programador (cursado finalizado, trabajando en el Proyecto Final), con ganas de seguir aprendiendo y poder empezar a desarrollarme en el ámbito de la programación. 
 
+---
 
 
 Here are some ideas to get you started:
