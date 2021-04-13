@@ -1,7 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mauricio Dall'Agata
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mauricio Dall'Agata
 
-<!--
-**mdallagata/mdallagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Mauricio, tengo 22 años, en etapas finales de recibirme de Programador (cursado finalizado, trabajando en el Proyecto Final), con ganas de seguir aprendiendo y poder empezar a desarrollarme en el ámbito de la programación. 
+
+
 
 Here are some ideas to get you started:
 
