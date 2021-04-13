@@ -5,7 +5,10 @@ Hola, soy Mauricio, tengo 22 años, en etapas finales de recibirme de Programado
 ---
 
 🧰 Toolbox
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg
+" alt="CSS3 Logo" width="50" height="50">
 
 Here are some ideas to get you started:
 
