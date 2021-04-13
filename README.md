@@ -10,7 +10,7 @@ tengo 22 años, en etapas finales de recibirme de Programador (cursado finalizad
 
 ---
 
-Para mas información o contactarme, mi <a href="https://www.linkedin.com/in/mdallagata/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Logo" width="50" height="10"><a>.
+Para mas información o contactarme, mi <a href="https://www.linkedin.com/in/mdallagata/">LinkedIn<a>.
 
 <!--
 Here are some ideas to get you started:
