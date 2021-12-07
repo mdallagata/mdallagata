@@ -1,6 +1,6 @@
 ### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Mauricio Dall'Agata
 
-tengo 23 años, en etapas finales de recibirme de Programador. 
+Técnico Universitario en Programación, 23 años. 
 
 ---
 
