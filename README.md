@@ -1,6 +1,6 @@
 ### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Mauricio Dall'Agata
 
-tengo 23 años, recibido de Técnico Universitario en Programación.
+tengo 23 años, recibido de Técnico Universitario en Programación. <br>
 Actualmente trabajando en una empresa de software llamada Reingenio como Ingeniero de Software Full Stack Junior.
 
 ---
