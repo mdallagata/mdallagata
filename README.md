@@ -14,9 +14,10 @@ Actualmente trabajando en una empresa de software llamada Reingenio como Ingenie
 🌱 Últimamente estoy aprendiendo más sobre:
 
 <ul>
-  <li>Inglés</li>
   <li>Node JS</li>
+  <li>NestJS</li>
   <li>React Native</li>
+  <li>Inglés</li>
 </ul>
 
 ---
