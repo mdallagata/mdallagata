@@ -1,7 +1,7 @@
 ### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, soy Mauricio
 
-Tengo 23 años, recibido de Técnico Universitario en Programación. <br>
-Actualmente trabajando en una empresa de software llamada Reingenio como Ingeniero de Software Full Stack Junior.
+Tengo 23 años, recibido de Técnico Universitario en Programación.
+Actualmente estoy trabajando en una empresa de software llamada Reingenio como "Ingeniero de Software Full Stack Junior".
 
 ---
 <!--
@@ -14,9 +14,9 @@ Actualmente trabajando en una empresa de software llamada Reingenio como Ingenie
 🌱 Últimamente estoy aprendiendo más sobre:
 
 <ul>
-  <li>NestJS</li>
-  <li>React Native</li>
   <li>Inglés</li>
+  <li>NestJS</li>
+  <li>NextJS</li>
 </ul>
 
 ---
