@@ -1,9 +1,9 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Mauricio.
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Mauricio.
 I am 24 years old, graduated as a University Technician in Programming.
 My hobbies and interests are technology, english and music.
 Currently working in a software company called Reingenio as a "Junior Full Stack Software Engineer".
 
-<!-----### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, soy Mauricio
+<!-----### Hola! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, soy Mauricio
 
 Hola 👋, soy Mauricio.
 Tengo 24 años, recibido de Técnico Universitario en Programación.
