@@ -27,7 +27,7 @@ Actualmente estoy trabajando en una empresa de software llamada Reingenio como "
 </ul>-->
 
 ---
-Más información y contacto en mi <a href="https://www.linkedin.com/in/mdallagata/">LinkedIn<a>.
+For more information, please head to my <a href="https://www.linkedin.com/in/mdallagata/">LinkedIn<a>.
 
 <!--
 Here are some ideas to get you started:
