@@ -1,5 +1,5 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Mauricio.
-I am 24 years old, graduated as a University Technician in Programming.
+I am 25 years old, graduated as a University Technician in Programming.
 My hobbies and interests are technology, english and music.
 Currently working in a software company called Reingenio as a "Junior Full Stack Software Engineer".
 
