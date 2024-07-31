@@ -1,4 +1,5 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">, I'm Mauricio.
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" height="40">
+I'm Mauricio.
 I am 25 years old, graduated as a University Technician in Programming, currently with more than 3 years of experience in the field. 
 My hobbies and interests are technology and music.
 
